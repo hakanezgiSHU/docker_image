@@ -1,4 +1,3 @@
 # docker_image
 
-You may download the docker image from the following link:
-https://bit.ly/3trybEG
+You can find the docker image at: https://hub.docker.com/r/hakanezgishu/api-web-app-docker-image
